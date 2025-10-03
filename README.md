@@ -37,7 +37,7 @@
  
  <h1 style = "color:#333333; text-align: center; font-family: Georgia;"> <b>Testimonials</b></h1>
 
- <div class = blue-text> <u><b>Kamara W:</b></u><br>
+ <p class = blue-text> <u><b>Kamara W:</b></u><br>
   <i>"The food was melt in your mouth delicious. I went back for seconds and maybe even thirds!"</i> She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. 
   <ul>Other Flavors include: 
   	<li>Vanilla </li>
@@ -45,31 +45,31 @@
     <li>Chocolate </li>
     <li>Red Velvet </li></ul>
     We wanted to share our findings too :)<br>
-  <a href = "https://chefjanetk.com/gluten-free-carrot-cake-cupcakes"> Click Here for a Copy Cat Recipe! </a> </div>
+  <a href = "https://chefjanetk.com/gluten-free-carrot-cake-cupcakes"> Click Here for a Copy Cat Recipe! </a> </p>
 
 <br>
 <br>
 
-<div class = "green-text"> <u><b>Bradley and Kammie Z:</u></b><br>
+<p class = "green-text"> <u><b>Bradley and Kammie Z:</u></b><br>
 They used our catering services for their wedding last summer. They wanted options to serve all their guests and not have to worry about it. Kammie later told us:<i> "It was awesome to not have to worry about the section of what I could and could not eat. Everything was allergy-friendly."</i> <br> 
 
  <a href="file:///C:/Users/kaspa/Downloads/Banner.pdf" download> Click here to see all our allergy accommodation offerings!
- </a> </div>
+ </a> </p>
 <br>
 <br>
- <div class = "blue-text"> <u><b>Keona G:</b></u><br>
+ <p class = "blue-text"> <u><b>Keona G:</b></u><br>
 She experienced Khaana at her husband, Amir's, office party and knew she had to have the same catering at her own. She later told us<i> "I experienced the best pie and knew I had to recommend them for my Christmas party! The caterers and staff are so friendly and willing to help in any way. I also got to take some home and enjoy it."</i> 
 <ol>Other popular events we cater for include: 
 <li> Weddings </li>
 <li> Graduation Parties </li>
 <li> Birthday Parties </li>
-<li> Conferences </li><ol> </div>
-</font> <img src="Pie.jpg" width = 350>
+<li> Conferences </li><ol> </p>
+ <img src="Pie.jpg" width = 350>
 <br>
 <br>
 <br>
 <a href = "mailto:kaspangl@purdue.edu">E-mail Kate S with any questions!</a>
-</body>
+
 
 <p id="date"></p>
 <script>
