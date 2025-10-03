@@ -30,17 +30,12 @@
     border-radius: 8px;
     }
    
-   footer {
-    margin-top: 40px;
-    font-size: 12px;
-    color: green;
-    }
    </style>
    
 </head>
 <body>
  
- <h1 style = "color:#333333; text-align: center; font-style: Georgia;"> <b>Testimonials</b></h1>
+ <h1 style = "color:#333333; text-align: center; font-family: Georgia;"> <b>Testimonials</b></h1>
 
  <div class = blue-text> <u><b>Kamara W:</b></u><br>
   <i>"The food was melt in your mouth delicious. I went back for seconds and maybe even thirds!"</i> She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. 
