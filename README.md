@@ -37,7 +37,7 @@
  
  <h1 style = "color:#333333; text-align: center; font-family: Georgia;"> <b>Testimonials</b></h1>
 
- <p class = blue-text> <u><b>Kamara W:</b></u><br>
+ <p class = blue-text> <u><b>Kamara W:</b> </u> <br>
   <i>"The food was melt in your mouth delicious. I went back for seconds and maybe even thirds!"</i> She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. 
   <ul>Other Flavors include: 
   	<li>Vanilla </li>
